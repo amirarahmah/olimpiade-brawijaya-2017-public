@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/welcome_topImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/top_opening" />
+
+        <ImageView
+            android:id="@+id/welcome_bottomImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/bottom_opening" />
+
+        <RelativeLayout
+            android:id="@+id/welcome_source"
+            android:layout_width="@dimen/logoSize"
+            android:layout_height="@dimen/logoSize"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/logo_ob" />
+
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/welcome_destination"
+            android:layout_width="@dimen/logoSizeSmall"
+            android:layout_height="@dimen/logoSizeSmall"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="88dp"
+            android:layout_marginTop="-34dp" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/welcome_viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/welcome_bottomImage"
+            android:layout_below="@+id/welcome_topImage"
+            android:layout_marginBottom="-100dp"
+            android:layout_marginTop="46dp" />
+
+        <com.pixelcan.inkpageindicator.InkPageIndicator
+            android:id="@+id/welcome_indicator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/welcome_viewPager"
+            android:layout_marginTop="120dp"
+            app:animationDuration="320"
+            app:currentPageIndicatorColor="@color/indicatorActive"
+            app:dotDiameter="10dp"
+            app:dotGap="8dp"
+            app:pageIndicatorColor="@color/indicatorInactive" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/welcome_fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="@dimen/spacing_medium"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:clickable="true"
+            android:src="@drawable/ic_next" />
+    </RelativeLayout>
+</layout>

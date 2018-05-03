@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_beranda_new"
+            android:icon="@drawable/ic_home"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/nav_jadwal_new"
+            android:icon="@drawable/ic_action_jadwal"
+            android:title="Jadwal" />
+        <item
+            android:id="@+id/nav_klasmen_new"
+            android:title="Klasmen" />
+        <item
+            android:id="@+id/nav_fakultas_saya_new"
+            android:icon="@drawable/ic_action_fakultas_saya"
+            android:title="Fakultas Saya" />
+
+        <item
+            android:id="@+id/nav_fakultas_lain_new"
+            android:icon="@drawable/ic_action_fakultas_lain"
+            android:title="Fakultas Lain" />
+
+        <item
+            android:id="@+id/nav_cabang_olimpiade_new"
+            android:icon="@drawable/ic_action_cabang_olim"
+            android:title="Cabang Olimpiade" />
+
+        <item
+            android:id="@+id/nav_news_new"
+            android:icon="@drawable/ic_action_news"
+            android:title="News" />
+
+        <item
+            android:id="@+id/nav_spectator_guide_new"
+            android:icon="@drawable/ic_action_spectator_guide"
+            android:title="Spectator Guide" />
+
+        <item
+            android:id="@+id/nav_setting_new"
+            android:icon="@drawable/ic_action_setting"
+            android:title="Setting" />
+    </group>
+
+
+</menu>

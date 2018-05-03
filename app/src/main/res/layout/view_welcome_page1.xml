@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true">
+
+            <ImageView
+                android:id="@+id/page1_ub"
+                android:layout_width="46dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/logo_ub" />
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/spacing_verylarge"
+                android:layout_toLeftOf="@+id/page1_ub"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/logo_raion" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/spacing_verylarge"
+                android:layout_toRightOf="@+id/page1_ub"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/logo_em" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+</layout>

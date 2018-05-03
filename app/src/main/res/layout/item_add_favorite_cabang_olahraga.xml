@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/addFavoriteItem_parent"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/material_component_lists_single_line_height"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:paddingLeft="@dimen/material_component_lists_icon_left_padding"
+    android:paddingRight="@dimen/material_component_lists_right_padding">
+
+    <ImageView
+        android:id="@+id/addFavoriteItem_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_action_basket" />
+
+    <TextView
+        android:id="@+id/addFavoriteItem_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="56dp"
+        android:textColor="@color/material_light_black"
+        android:textSize="14sp"
+        tools:text="@string/caborBasket" />
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/material_deep_purple_500</color>
+    <color name="colorPrimaryDark">@color/material_deep_purple_700</color>
+    <color name="colorAccent">@color/material_orange_accent_700</color>
+
+    <color name="colorPrimaryWelcome">#c34d0a</color>
+    <color name="indicatorActive">@color/material_deep_purple_700</color>
+    <color name="indicatorInactive">@color/material_deep_purple_100</color>
+    <color name="welcomeTextColor">#212121</color>
+    <color name="colorAccentRipple">@color/material_pink_400</color>
+    <color name="transparent">#00000000</color>
+    <color name="backgroundOfCardView">#fafafa</color>
+
+    <color name="blackTransparent">#9a000000</color>
+
+    <color name="primary_text_white">#DFFFFFFF</color>
+    <color name="secondary_text_white">#8AFFFFFF</color>
+    <color name="primary_text">@color/black_84</color>
+    <color name="Disabled_text_hint_text">#1E000000</color>
+
+    <color name="black_84">#D5000000</color>
+
+    <color name="divider_color">#1E000000</color>
+
+
+    <color name="color_item_recycler_view_selected">@color/md_deep_purple_300</color>
+    <color name="color_item_recycler_view_unselected">@color/backgroundOfCardView</color>
+
+    <color name="md_deep_purple_300">#9575CD</color>
+
+    <color name="md_grey_50">#FAFAFA</color>
+
+    <!--https://gist.github.com/daniellevass/b0b8cfa773488e138037-->
+    <!-- google's material design colours from
+    http://www.google.com/design/spec/style/color.html#color-ui-color-palette -->
+
+
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/fl_container_cabor_favorit_welcome_2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:padding="@dimen/standart_compomenents_margin_small">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/iv_thumbnail_cabor_favorit_welcome_2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="16dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tv_nama_cabor_favorit_welcome_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="8dp"
+                android:maxLines="1"
+                android:text="CABOR A"
+                android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+                android:textColor="@color/primary_text"
+                app:layout_constraintHorizontal_bias="0.502"
+                app:layout_constraintLeft_toLeftOf="@+id/iv_thumbnail_cabor_favorit_welcome_2"
+                app:layout_constraintRight_toRightOf="@+id/iv_thumbnail_cabor_favorit_welcome_2"
+                app:layout_constraintTop_toBottomOf="@id/iv_thumbnail_cabor_favorit_welcome_2" />
+
+            <ImageView
+                android:id="@+id/iv_indicator_selected_welcome_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="0dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_selected_triangle" />
+
+
+            <!--<View-->
+            <!--android:id="@+id/divider"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="1dp"-->
+            <!--android:background="@color/divider_color"-->
+            <!--app:layout_constraintBottom_toBottomOf="parent"-->
+            <!--app:layout_constraintLeft_toLeftOf="@+id/tv_nama_barang_tagihan"-->
+            <!--app:layout_constraintRight_toRightOf="parent" />-->
+
+        </android.support.constraint.ConstraintLayout>
+
+    </FrameLayout>
+
+    <!--<TextView-->
+    <!--android:id="@+id/id"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_margin="@dimen/text_margin"-->
+    <!--android:textAppearance="?attr/textAppearanceListItem" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/content"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_margin="@dimen/text_margin"-->
+    <!--android:textAppearance="?attr/textAppearanceListItem" />-->
+</LinearLayout>

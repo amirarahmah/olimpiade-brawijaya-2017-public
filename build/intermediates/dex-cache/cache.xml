@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/arifinfirdaus/.android/build-cache/50d4094ccc79a0eda84d4e350f503ebd33d7e01c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/arifinfirdaus/AndroidStudioProjects/raioncommunity/olimpiade-brawijaya-2017-public-lajutan/app/build/intermediates/pre-dexed/debug/classes_fdad2b70e9293780eff4f4268d806ffdbe8868aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arifinfirdaus/.android/build-cache/790335a6a26331c70f1333be00b837785bdd95a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/arifinfirdaus/AndroidStudioProjects/raioncommunity/olimpiade-brawijaya-2017-public-lajutan/app/build/intermediates/pre-dexed/debug/classes_aaa31f0ed2fe6d88b7f7789148a691e00d18d023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arifinfirdaus/.android/build-cache/ad919c7e64e426b245b79ba1c2ffc3ae5e8dfcdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/arifinfirdaus/AndroidStudioProjects/raioncommunity/olimpiade-brawijaya-2017-public-lajutan/app/build/intermediates/pre-dexed/debug/classes_392f0733f0575f83df6c601707b5f9c84d1a3599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arifinfirdaus/.android/build-cache/ba30937e574c416d6b714e61d0da73d0c6b6e8d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/arifinfirdaus/AndroidStudioProjects/raioncommunity/olimpiade-brawijaya-2017-public-lajutan/app/build/intermediates/pre-dexed/debug/classes_bd68a27feefd3f73bd9b3d1bfe6cc4827af41aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arifinfirdaus/.android/build-cache/38a9b790030a3c0d7b4926519c2e5fa5333f70a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/arifinfirdaus/AndroidStudioProjects/raioncommunity/olimpiade-brawijaya-2017-public-lajutan/app/build/intermediates/pre-dexed/debug/classes_247929fefb71e57da9b8747d38a3545d68752179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arifinfirdaus/.android/build-cache/ac35e0ff5d5c17ca58209e1a154fb6cd476d1880/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/arifinfirdaus/AndroidStudioProjects/raioncommunity/olimpiade-brawijaya-2017-public-lajutan/app/build/intermediates/pre-dexed/debug/classes_9bdb02184961f578b119dd5f54e5281b485e32dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arifinfirdaus/.android/build-cache/b8a1e726de28d862f6eafdefd93355d39d449cc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/arifinfirdaus/AndroidStudioProjects/raioncommunity/olimpiade-brawijaya-2017-public-lajutan/app/build/intermediates/pre-dexed/debug/classes_95126b08c67c309a953ca1ef52f5f0f97a9fb03a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arifinfirdaus/.android/build-cache/95ce1a6518379a614ccb78e9c3d52d967a24dced/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/arifinfirdaus/AndroidStudioProjects/raioncommunity/olimpiade-brawijaya-2017-public-lajutan/app/build/intermediates/pre-dexed/debug/classes_1b4410ec3a5090e3e5d498a069ff90c1ed13b652.jar" />
+    </item>
+
+</items>

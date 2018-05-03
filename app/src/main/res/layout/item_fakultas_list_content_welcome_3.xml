@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:orientation="vertical">
+
+
+    <FrameLayout
+        android:id="@+id/container_fakultas_welcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?android:attr/selectableItemBackground">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/iv_thumbnail_fakultas_welcome_3"
+                android:layout_margin="4dp"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/tv_nama_fakultas_welcome_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/standart_components_margin"
+                android:layout_marginStart="@dimen/standart_components_margin"
+                android:layout_marginTop="16dp"
+                android:text="textview"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                app:layout_constraintLeft_toRightOf="@+id/iv_thumbnail_fakultas_welcome_3"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <!--<View-->
+            <!--android:id="@+id/divider"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="1dp"-->
+            <!--android:background="@color/divider_color"-->
+            <!--app:layout_constraintBottom_toBottomOf="parent"-->
+            <!--app:layout_constraintLeft_toLeftOf="@id/tv_nama_fakultas_welcome_3"-->
+            <!--app:layout_constraintRight_toRightOf="parent"-->
+            <!--tools:layout_editor_absoluteX="8dp"-->
+            <!--tools:layout_editor_absoluteY="29dp" />-->
+
+        </android.support.constraint.ConstraintLayout>
+
+    </FrameLayout>
+
+    <!--<TextView-->
+    <!--android:id="@+id/id"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_margin="@dimen/text_margin"-->
+    <!--android:textAppearance="?attr/textAppearanceListItem" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/content"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_margin="@dimen/text_margin"-->
+    <!--android:textAppearance="?attr/textAppearanceListItem" />-->
+</LinearLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "24054454734",
+    "firebase_url": "https://olimpiade-brawijaya-2017-bd156.firebaseio.com",
+    "project_id": "olimpiade-brawijaya-2017-bd156",
+    "storage_bucket": "olimpiade-brawijaya-2017-bd156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24054454734:android:c47f0d89d1400421",
+        "android_client_info": {
+          "package_name": "com.raioncommunity.android.ob2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24054454734-ts7crt845icg2qqrq6mojusg32im4vb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUOfMD4l3a9O8Rcw0w1b4kooXubOz3l8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

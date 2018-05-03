@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Olimpiade Brawijaya 2017</string>
+
+    <string name="chooseCabangOlahraga">Pilih cabang olahraga favorit</string>
+    <string name="chooseFakultas">Pilih Fakultas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="shareString">Bagikan</string>
+    <string name="continueReadingString">Baca selengkapnya</string>
+
+    <!-- Cabang Olahraga -->
+    <string name="caborAtletik">Atletik</string>
+    <string name="caborBuluTangkis">Bulu Tangkis</string>
+    <string name="caborBasket">Basket</string>
+    <string name="caborBridge">Bridge</string>
+    <string name="caborCatur">Catur</string>
+    <string name="caborDebatIndonesia">Debat Bahasa Indonesia</string>
+    <string name="caborDebatInggris">Debat Bahasa Inggris</string>
+    <string name="caborDesainPoster">Desain Poster</string>
+    <string name="caborFestivalBand">Festival Band</string>
+    <string name="caborFotografi">Fotografi</string>
+    <string name="caborFutsal">Futsal</string>
+    <string name="caborKarate">Karate</string>
+    <string name="caborKempo">Kempo</string>
+    <string name="caborKomik">Komik</string>
+    <string name="caborMenembak">Menembak</string>
+    <string name="caborMenyanyiDangdut">Menyanyi Dangdut</string>
+    <string name="caborMenyanyiKeroncong">Menyanyi Keroncong</string>
+    <string name="caborMenyanyiPop">Menyanyi Pop</string>
+    <string name="caborMenyanyiSeriosa">Menyanyi Seriosa</string>
+    <string name="caborNewscasting">News Casting</string>
+    <string name="caborPaduanSuara">Paduan Suara</string>
+    <string name="caborPanahan">Panahan</string>
+    <string name="caborPencakSilat">Pencak Silat</string>
+    <string name="caborPidato">Pidato</string>
+    <string name="caborPuisi">Puisi</string>
+    <string name="caborRecycle">Recycle</string>
+    <string name="caborRenang">Renang</string>
+    <string name="caborSinematografi">Sinematografi</string>
+    <string name="caborMonologStandUpComedy">Stand Up Comedy</string>
+    <string name="caborTaekwondo">Taekwondo</string>
+    <string name="caborTennisLapangan">Tenis Lapangan</string>
+    <string name="caborTennisMeja">Tenis Meja</string>
+    <string name="caborVocalGrup">Vocal Grup</string>
+    <string name="caborVoli">Voli</string>
+
+    <!-- Fakultas -->
+    <string name="fakultasFH">Fakultas Hukum</string>
+    <string name="fakultasFEB">Fakultas Ekonomi dan Bisnis</string>
+    <string name="fakultasFIA">Fakultas Ilmu Administrasi</string>
+    <string name="fakultasFP">Fakultas Pertanian</string>
+    <string name="fakultasFapet">Fakultas Peternakan</string>
+    <string name="fakultasFT">Fakultas Teknik</string>
+    <string name="fakultasFK">Fakultas Kedokteran</string>
+    <string name="fakultasFPIK">Fakultas Perikanan dan Ilmu Kelautan</string>
+    <string name="fakultasFMIPA">Fakultas Matematika dan Ilmu Pengetahuan Alam</string>
+    <string name="fakultasFTP">Fakultas Teknologi Pertanian</string>
+    <string name="fakultasFISIP">Fakultas Ilmu Sosial dan Ilmu Politik</string>
+    <string name="fakultasFIB">Fakultas Ilmu Budaya</string>
+    <string name="fakultasFKH">Fakultas Kedokteran Hewan</string>
+    <string name="fakultasFKG">Fakultas Kedokteran Gigi</string>
+    <string name="fakultasFILKOM">Fakultas Ilmu Komputer</string>
+    <string name="fakultasVokasi">Program Vokasi</string>
+    <string name="fakultasKediri">UB Kediri</string>
+    <string name="fakultasTester">Fakultas Tester</string>
+
+    <!-- Petunjuk Penonton - Venue -->
+    <string name="venueLapBulutangkis">Lapangan Bulutangkis</string>
+    <string name="venueLapTenis">Lapangan Tenis</string>
+    <string name="venueLapTenisMeja">Lapangan Tenis Meja</string>
+    <string name="venueGorPertamina">GOR Pertamina</string>
+    <string name="venuePasarBurung">Pasar Burung</string>
+    <string name="venueWidyaloka">Gedung Widyaloka</string>
+    <string name="venueUBTV">UB TV Gedung Rektorat</string>
+    <string name="venueGazeboUB">Gazebo Universitas Brawijaya</string>
+    <string name="venueGazeboPerpus">Gazebo Perpustakaan UB</string>
+    <string name="venueGajayana">Gajayana</string>
+    <string name="venueUBSC">Gedung UB Sport Center</string>
+    <string name="venueSMA7">Lapangan SMAN 7 Malang</string>
+    <string name="venueVoli">Lapangan Voli</string>
+
+
+    <!-- Dialog -->
+    <string name="positiveButton">OK</string>
+    <string name="negativeButton">Cancel</string>
+    <string name="selectCabor">Setidaknya pilih satu cabang olahraga!</string>
+    <string name="selectFakultas">Pilih satu fakultas!</string>
+    <string name="confirm">Apakah Anda yakin ingin menghapus pilihan Anda?</string>
+    <string name="confirmInfo">Anda bisa merubah pilihan anda pada menu Setting.</string>
+
+    <string name="deleteConfirm">Apakah anda yakin ingin menghapus pilihan favorit?</string>
+
+    <!-- Toolbar Title -->
+    <string name="berandaTitle">Beranda</string>
+
+    <!-- NavDrawer Menu -->
+    <string name="navDrawerBeranda">Beranda</string>
+    <string name="navDrawerJadwal">Jadwal</string>
+    <string name="navDrawerKlasemen">Klasemen</string>
+    <string name="navDrawerFakSaya">Fakultas Saya</string>
+    <string name="navDrawerFakLain">Fakultas Lain</string>
+    <string name="navDrawerCabor">Cabang Olimpiade</string>
+    <string name="navDrawerNews">Berita</string>
+    <string name="navDrawerGuide">Petunjuk Penonton</string>
+    <string name="navDrawerSetting">Settings</string>
+    <string name="navDrawerAboutUs">About Us</string>
+
+    <!-- ViewPager Menu -->
+    <string name="viewPagerToday">Hari ini</string>
+    <string name="viewPagerYesterday">Kemarin</string>
+    <string name="viewPagerTomorrow">Besok</string>
+
+    <string name="viewPagerResult">Hasil</string>
+    <string name="viewPagerUpcoming">Akan Datang</string>
+
+    <!-- Card Text -->
+    <string name="cardVersus">VS</string>
+
+    <!-- Setting Strings -->
+    <string name="setting_pushNotification">Notifikasi</string>
+    <string name="setting_profile">Profil</string>
+    <string name="setting_fakultasSaya">Fakultas Saya</string>
+    <string name="setting_favoritSaya">Favorit Saya</string>
+    <string name="setting_tambahFavorit">Tambah favorit</string>
+
+    <!-- Klasmen View -->
+    <string name="klasmen_Fakultas">Fakultas</string>
+    <string name="aboutUs_content">Olimpiade Brawijaya 2016 merupakan kegiatan tahunan yang menyatukan seluruh mahasiswa di Universitas Brawijaya dalam satu rangkaian perayaan dan perlombaan serta sebagai wadah untuk mahasiswa Universitas Brawijaya dalam menyalurkan minat dan bakat dalam bidang olahraga dan bidang seni yang diselenggarakan oleh Eksekutif Mahasiswa Universitas Brawijaya.Olimpiade Brawijaya 2016 diikuti oleh 17 Fakultas yang akan berkompetisi dalam 16 cabang olimpiade bidang olahraga dan 14 cabang olimpiade bidang seni dengan mengusung tema "Menciptakan Integritas, Sportifitas, Kualitas untuk Brawijaya dan Indonesia Juara". Dalam rangka mencapai tujuan diselenggarakannya Olimpiade Brawijaya 2016 dengan mengusung tema tersebut, terdapat rangkaian acara Introduction Ceremony, Opening Ceremony, Perlombaan, dan Closing Ceremony.</string>
+    <string name="aboutUs_arya">Arya adalah maskot Olimpiade Brawijaya 2016 yang terinspirasi dari tokoh pendekar pada masa Majapahit yang bernama Arya Kamandanu. Arya dikenal memiliki sifat yang lembut kepada para sahabatnya tetapi disisi lain juga tangguh, kuat dan berjiwa besar. Sifat-sifat inilah yang diharapkan dimiliki oleh kontingen maupun supporter Olimpiade Brawijaya, yaitu rasa saling menghargai terhadap sesama mahasiswa Universitas Brawijaya dan juga jiwa kompetisi yang kuat di setiap pertandingan tanpa melupakan norma dan budaya. Oleh karena itu, Arya berpenampilan layaknya pendekar dan menggunakan medali emas yang berarti bahwa menang ataupun kalah semua akan dianggap sebagai juara atas segala perjuangannya.Mahkota adalah simbol tradisional dalam bentuk tutup kepala yang dikenakan oleh raja, ratu atau dewa. Dalam nilai-nilai tradisional, bagi yang memakainya, mahkota merupakan lambang bagi kekuasaan, kejayaan, kemakmuran dan kesejahteraan. Mahkota dengan pilar yang penyangga yang dikenakan Arya menggambarkan bahwa untuk mencapai puncak kejayaan diperlukan kerjasama serta satu padu seluruh masyarakat. Selain itu, mahkota yang berbentuk undakan melambangkan bahwa tidak ada kejayaan yang diperoleh tanpa usaha, semuanya berawal dari hal yang paling kecil untuk bisa menjadi hal yang besar. Makna ini sekaligus mengajarkan dan mengajak seluruh masyarakat Brawijaya bahwa sekecil apapun usaha yang kita lakukan, selama berada di jalan yan tepat, akan membimbing kita menuju tujuan yang gemilang. Arya mewakilkan semangat yang dimiliki seluruh mahasiswa Brawijaya dalam menyambut Olimpiade Brawijaya 2016 dengan menjunjung semangat persatuan, perjuangan dalam mencapai kemenangan, serta menjadikan kepentingan masyarakat menjadi kepentingan utama.</string>
+
+    <string name="tidakAdaData">Tidak ada data.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+    <!--berita detail-->
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_berita_detail2">Berita Detail</string>
+
+    <!--settings-->
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_be_determined">to be determined</string>
+    <string name="score">-</string>
+    <string name="title_activity_new_main">NewMainActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="caborCerpen">Cerpen</string>
+    <string name="caborBalapSepeda">Balap Sepeda</string>
+    <string name="caborMelukis">Melukis</string>
+    <string name="caborSepakBola">Sepak Bola</string>
+    <string name="loading">Menyimpan data Anda...</string>
+    <string name="venueGKM">Gedung Kebudayaan Mahasiswa</string>
+    <string name="venueLapanganSampingGorPertamina">Lapangan Samping GOR Pertamina</string>
+    <string name="venumeStasiunMalang">Stasiun Kota Malang</string>
+    <string name="venueLapanganParkirGerbangWatugong">Lapangan Parkir Gerbang Watugong</string>
+    <string name="venueLapanganUBDieng">Lapangan UB Dieng</string>
+    <string name="venueSakri">Gedung Samantha Krida</string>
+    <string name="ub">Universitas Brawijaya</string>
+    <string name="venuePerpusUB">Perpustakaan UB</string>
+    <string name="venueStadionGajayana">Stadion Gajayana</string>
+    <string name="lukis_ada_nggak_sih">Lukis ada nggk sih?</string>
+    <string name="cerpen_ada_nggk_sih">cerpen ada nggk sih?</string>
+    <string name="sepak_bola_ada_nggk_sih">sepakbola ada nggk sih?</string>
+    <string name="sepeda_ada_nggak_sih">Balap Sepeda ada nggk sih?</string>
+
+</resources>
