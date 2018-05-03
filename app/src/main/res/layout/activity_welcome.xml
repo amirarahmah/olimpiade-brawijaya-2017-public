@@ -60,11 +60,11 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/welcome_viewPager"
             android:layout_marginTop="120dp"
-            app:animationDuration="320"
-            app:currentPageIndicatorColor="@color/indicatorActive"
-            app:dotDiameter="10dp"
-            app:dotGap="8dp"
-            app:pageIndicatorColor="@color/indicatorInactive" />
+            app:ipi_animationDuration="320"
+            app:ipi_currentPageIndicatorColor="@color/indicatorActive"
+            app:ipi_dotDiameter="10dp"
+            app:ipi_dotGap="8dp"
+            app:ipi_pageIndicatorColor="@color/indicatorInactive" />
 
         <android.support.design.widget.FloatingActionButton
             android:id="@+id/welcome_fab"

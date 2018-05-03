@@ -41,9 +41,6 @@ import static com.raioncommunity.android.ob2017.debug.Tag.ADD_FAVORITE_DIALOG_TA
 import static com.raioncommunity.android.ob2017.debug.Tag.ARRAY_LIST_TAG;
 import static com.raioncommunity.android.ob2017.debug.Tag.GSON_CONVERTER_TAG;
 
-/**
- * Created by bradhawk on 9/26/2016.
- */
 
 public class AddFavoriteDialogFragment extends DialogFragment implements AddFavoriteDialogCallback, SettingsView {
 

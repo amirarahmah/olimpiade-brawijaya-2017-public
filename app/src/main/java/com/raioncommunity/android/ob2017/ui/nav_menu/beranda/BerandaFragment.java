@@ -48,7 +48,7 @@ public class BerandaFragment extends Fragment {
         viewPager.setAdapter(adapter);
         viewPager.setCurrentItem(1);
 
-        SmartTabLayout viewPagerTab = (SmartTabLayout) view.findViewById(R.id.tabLayout);
+        SmartTabLayout viewPagerTab =  view.findViewById(R.id.tabLayout);
         viewPagerTab.setViewPager(viewPager);
         viewPagerTab.setOnTouchListener(new View.OnTouchListener() {
             @Override

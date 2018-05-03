@@ -2,13 +2,11 @@ package com.raioncommunity.android.ob2017;
 
 import android.app.Application;
 import android.content.Context;
-
 import android.util.Log;
 
 import com.google.firebase.messaging.FirebaseMessaging;
 import com.raioncommunity.android.ob2017.model.api.RestClient;
 import com.raioncommunity.android.ob2017.util.DataList;
-
 
 import jonathanfinerty.once.Once;
 
